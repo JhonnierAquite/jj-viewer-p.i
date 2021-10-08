@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="jjviewer">J J VIEWER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="usuario">usuario</string>
+    <string name="contraseña">contraseña</string>
+    <string name="Registro">REGISTRO</string>
+    <string name="btn_inicio">Inicio</string>
+    <string name="btn_empleado">Empleado</string>
+    <string name="btn_usuario">Usuario</string>
+    <string name="btn_registro">Registro</string>
+    <string name="btn_activarcamar">Activar Camara</string>
+    <string name="Bienvenido_registro">Bienvenido</string>
+    <string name="Nombres">Nombres</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="FechaDeNacimiento">Fecha De Nacimiento</string>
+    <string name="Documento">Documento</string>
+    <string name="Camaras">Camaras</string>
+    <string name="Novedades">Novedades</string>
+    <string name="btnregistro2">Registrar</string>
+
+
+
+</resources>
